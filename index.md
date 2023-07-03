@@ -4,21 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Statistics at the University of British Columbia.
+I am a Ph.D. candidate in the Department of Statistics at the University of British Columbia, supervised by Prof. Harry Joe. The main topic of my research is dependence modeling of multivariate response variable. The recently developed high-dimensional copula models, notably the vine copula and factor copula, has gained increasing popularity for their flexbility to account for dependence structures. Yet a more challenging problem in dependence modeling is to account for the extremal dependence. The main theme of my research is to study how to make efficient inference on the tail quantitities of the data.
 
 ## Research Interests
 
-- **Multivariate analysis
-- **Extreme value theory
-- **Quantitative risk management
+- Multivariate analysis
+- Extreme value theory
+- Quantitative risk management
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
