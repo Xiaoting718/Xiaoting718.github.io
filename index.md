@@ -4,11 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the Department of Statistics at the University of British Columbia, supervised by Prof. Harry Joe. The main topic of my research is dependence modeling of multivariate response variable. The recently developed high-dimensional copula models, notably the vine copula and factor copula, has gained increasing popularity for their flexbility to account for dependence structures. Yet a more challenging problem in dependence modeling is to account for the extremal dependence. The main theme of my research is to study how to make efficient inference on the tail quantitities of the data.
+I am a Ph.D. candidate in Statistics at the University of British Columbia, working under the supervision of [Dr. Harry Joe](https://www.stat.ubc.ca/~harry/){:target="_blank"}. I am supported by NSERC Doctoral Scholarship to conduct reserach on multivariate extreme inference. I received a Bachelor’s degree in Joint Honours Economics and Finance from McGill University, where I graduated with the prestigious Allen Oliver Gold Medal. Driven by strong interests in quantitative research, I pursued graduate studies in Statistics under the supervision of [Dr. Christian Genest](https://www.math.mcgill.ca/cgenest/){:target="_blank"}, who guided my early research on statistical modeling of clustered extremes. During my Ph.D. studies, I have focused on the more challenging problems posed by multivariate extremes.
 
 ## Research Interests
 
-- Multivariate analysis
-- Extreme value theory
-- Quantitative risk management
+- Dependence Modeling  
+- Extreme Value Theory 
+- Multivariate Time Series Analysis  
+- Quantitative Risk Management  
+ 
+
 
