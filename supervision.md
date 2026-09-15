@@ -73,7 +73,7 @@ permalink: /supervision/
 <section class="supervision-students">
   <h2>Current Students</h2>
   <p>
-    <strong>Student name</strong><br>
+    <strong>Punsara Uduwage</strong><br>
     M.Sc. in Statistics, start year– 2026<br>
     Co-supervised with Saman Muthukumarana
   <p>
